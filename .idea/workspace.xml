@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="945921ba-df21-467f-8ebb-c8ecbcccfdc7" name="Changes" comment="Add new solving" />
+    <list default="true" id="945921ba-df21-467f-8ebb-c8ecbcccfdc7" name="Changes" comment="wrote program which calculate factorial number &lt; 150">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +38,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/javaRush/JavaRushTasks&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/javaRush/DiffTasks&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
@@ -47,9 +49,16 @@
       <recent name="D:\javaRush\DiffTasks\src\main" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Factorial">
+  <component name="RunManager" selected="Application.MostCommonCharacters">
     <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Factorial" />
+      <module name="DiffTasks" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MostCommonCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MostCommonCharacters" />
       <module name="DiffTasks" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -64,6 +73,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MostCommonCharacters" />
         <item itemvalue="Application.Factorial" />
         <item itemvalue="Application.NOD" />
       </list>
@@ -78,6 +88,8 @@
       <option name="presentableId" value="Default" />
       <updated>1660483251685</updated>
       <workItem from="1660483253353" duration="252000" />
+      <workItem from="1660573271980" duration="171000" />
+      <workItem from="1660656045849" duration="15000" />
     </task>
     <task id="LOCAL-00001" summary="Add new solving">
       <created>1660483397502</created>
@@ -86,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660483397502</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="wrote program which calculate factorial number &lt; 150">
+      <created>1660573427575</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1660573427575</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +124,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add new solving" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add new solving" />
+    <MESSAGE value="wrote program which calculate factorial number &lt; 150" />
+    <option name="LAST_COMMIT_MESSAGE" value="wrote program which calculate factorial number &lt; 150" />
   </component>
 </project>
