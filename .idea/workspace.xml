@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="945921ba-df21-467f-8ebb-c8ecbcccfdc7" name="Changes" comment="Count of Comma in text in file">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Wrapper1.java" afterDir="false" />
+    <list default="true" id="945921ba-df21-467f-8ebb-c8ecbcccfdc7" name="Changes" comment="Training in wrappers">
+      <change afterPath="$PROJECT_DIR$/src/main/java/UnsupportedFileName/TxtInputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UnsupportedFileName/UnsupportedFileNameException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -46,6 +48,10 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="UnsupportedFileName" />
+      <recent name="" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\javaRush\DiffTasks\src\main" />
     </key>
@@ -112,6 +118,8 @@
       <workItem from="1661783289261" duration="43000" />
       <workItem from="1661863148657" duration="970000" />
       <workItem from="1661865591842" duration="2311000" />
+      <workItem from="1661941794254" duration="173000" />
+      <workItem from="1662033083529" duration="307000" />
     </task>
     <task id="LOCAL-00001" summary="Add new solving">
       <created>1660483397502</created>
@@ -148,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661872973042</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Training in wrappers">
+      <created>1661941907619</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1661941907619</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +186,7 @@
     <MESSAGE value="Find most common characters in file" />
     <MESSAGE value="Get sort characters" />
     <MESSAGE value="Count of Comma in text in file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Count of Comma in text in file" />
+    <MESSAGE value="Training in wrappers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Training in wrappers" />
   </component>
 </project>
