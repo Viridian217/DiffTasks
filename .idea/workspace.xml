@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="945921ba-df21-467f-8ebb-c8ecbcccfdc7" name="Changes" comment="Checks for the ends of files to comply conditions problem" />
+    <list default="true" id="945921ba-df21-467f-8ebb-c8ecbcccfdc7" name="Changes" comment="Counts quantity of English words in file">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,17 +34,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/javaRush/DiffTasks",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/javaRush/JavaRushTasks&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="UnsupportedFileName" />
@@ -52,23 +54,29 @@
       <recent name="D:\javaRush\DiffTasks\src\main" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Wrapper1">
-    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Factorial" />
+  <component name="RunManager" selected="Application.CountOfSpace">
+    <configuration name="CountOfSpace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reader.CountOfSpace" />
       <module name="DiffTasks" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MostCommonCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MostCommonCharacters" />
-      <module name="DiffTasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="reader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="MostRareCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MostRareCharacters" />
+      <module name="DiffTasks" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Other" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Other" />
       <module name="DiffTasks" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,11 +98,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountOfSpace" />
+        <item itemvalue="Application.Other" />
         <item itemvalue="Application.Wrapper1" />
         <item itemvalue="Application.SortCharacters" />
         <item itemvalue="Application.MostRareCharacters" />
-        <item itemvalue="Application.MostCommonCharacters" />
-        <item itemvalue="Application.Factorial" />
       </list>
     </recent_temporary>
   </component>
@@ -116,6 +124,9 @@
       <workItem from="1661865591842" duration="2311000" />
       <workItem from="1661941794254" duration="173000" />
       <workItem from="1662033083529" duration="358000" />
+      <workItem from="1662219126908" duration="227000" />
+      <workItem from="1662287003179" duration="329000" />
+      <workItem from="1662307764839" duration="7000" />
     </task>
     <task id="LOCAL-00001" summary="Add new solving">
       <created>1660483397502</created>
@@ -166,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662033439011</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Counts quantity of English words in file">
+      <created>1662219345824</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1662219345824</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,6 +209,7 @@
     <MESSAGE value="Count of Comma in text in file" />
     <MESSAGE value="Training in wrappers" />
     <MESSAGE value="Checks for the ends of files to comply conditions problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="Checks for the ends of files to comply conditions problem" />
+    <MESSAGE value="Counts quantity of English words in file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Counts quantity of English words in file" />
   </component>
 </project>
