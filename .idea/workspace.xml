@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="945921ba-df21-467f-8ebb-c8ecbcccfdc7" name="Changes" comment="Counts quantity of space in files and compute ratio of total amount of words and space">
+    <list default="true" id="945921ba-df21-467f-8ebb-c8ecbcccfdc7" name="Changes" comment="this class implements list, training in wrapper, multithreading, inheritance">
+      <change afterPath="$PROJECT_DIR$/src/main/java/reader/CountOfWords.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,17 +35,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/javaRush/DiffTasks",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/javaRush/DiffTasks&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="UnsupportedFileName" />
@@ -54,7 +55,7 @@
       <recent name="D:\javaRush\DiffTasks\src\main" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CountOfSpace">
+  <component name="RunManager" selected="Application.CountOfWords">
     <configuration name="CountOfSpace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="reader.CountOfSpace" />
       <module name="DiffTasks" />
@@ -68,9 +69,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MostRareCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MostRareCharacters" />
+    <configuration name="CountOfWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reader.CountOfWords" />
       <module name="DiffTasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="reader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -98,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountOfWords" />
         <item itemvalue="Application.CountOfSpace" />
         <item itemvalue="Application.Other" />
         <item itemvalue="Application.Wrapper1" />
         <item itemvalue="Application.SortCharacters" />
-        <item itemvalue="Application.MostRareCharacters" />
       </list>
     </recent_temporary>
   </component>
@@ -129,6 +136,7 @@
       <workItem from="1662307764839" duration="7000" />
       <workItem from="1662308783027" duration="344000" />
       <workItem from="1662311845314" duration="5000" />
+      <workItem from="1662378438109" duration="1433000" />
     </task>
     <task id="LOCAL-00001" summary="Add new solving">
       <created>1660483397502</created>
@@ -193,7 +201,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662308991155</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="this class implements list, training in wrapper, multithreading, inheritance">
+      <created>1662378642101</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1662378642101</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,6 +235,7 @@
     <MESSAGE value="Checks for the ends of files to comply conditions problem" />
     <MESSAGE value="Counts quantity of English words in file" />
     <MESSAGE value="Counts quantity of space in files and compute ratio of total amount of words and space" />
-    <option name="LAST_COMMIT_MESSAGE" value="Counts quantity of space in files and compute ratio of total amount of words and space" />
+    <MESSAGE value="this class implements list, training in wrapper, multithreading, inheritance" />
+    <option name="LAST_COMMIT_MESSAGE" value="this class implements list, training in wrapper, multithreading, inheritance" />
   </component>
 </project>
