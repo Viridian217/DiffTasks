@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="945921ba-df21-467f-8ebb-c8ecbcccfdc7" name="Changes" comment="this code intercept exception FileNotFound" />
+    <list default="true" id="945921ba-df21-467f-8ebb-c8ecbcccfdc7" name="Changes" comment="training in streams">
+      <change afterPath="$PROJECT_DIR$/src/main/java/DrugStore/Drug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DrugStore/DrugsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DrugStore/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,17 +37,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/javaRush/LeetcodeTasks&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/javaRush/DiffTasks",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="UnsupportedFileName" />
@@ -135,6 +140,8 @@
       <workItem from="1662311845314" duration="5000" />
       <workItem from="1662378438109" duration="1497000" />
       <workItem from="1662481526679" duration="130000" />
+      <workItem from="1662556044152" duration="162000" />
+      <workItem from="1662556774916" duration="172000" />
     </task>
     <task id="LOCAL-00001" summary="Add new solving">
       <created>1660483397502</created>
@@ -220,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662481644886</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="training in streams">
+      <created>1662556108576</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1662556108576</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,6 +264,7 @@
     <MESSAGE value="this class implements list, training in wrapper, multithreading, inheritance" />
     <MESSAGE value="count words in file" />
     <MESSAGE value="this code intercept exception FileNotFound" />
-    <option name="LAST_COMMIT_MESSAGE" value="this code intercept exception FileNotFound" />
+    <MESSAGE value="training in streams" />
+    <option name="LAST_COMMIT_MESSAGE" value="training in streams" />
   </component>
 </project>
