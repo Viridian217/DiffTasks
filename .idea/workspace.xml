@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="945921ba-df21-467f-8ebb-c8ecbcccfdc7" name="Changes" comment="training in streams">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DrugStore/Drug.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DrugStore/DrugsController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DrugStore/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="945921ba-df21-467f-8ebb-c8ecbcccfdc7" name="Changes" comment="training in multithreading, took two classes from javarush" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -141,7 +136,7 @@
       <workItem from="1662378438109" duration="1497000" />
       <workItem from="1662481526679" duration="130000" />
       <workItem from="1662556044152" duration="162000" />
-      <workItem from="1662556774916" duration="172000" />
+      <workItem from="1662556774916" duration="711000" />
     </task>
     <task id="LOCAL-00001" summary="Add new solving">
       <created>1660483397502</created>
@@ -234,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662556108576</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="training in multithreading, took two classes from javarush">
+      <created>1662557190108</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1662557190108</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -265,6 +267,7 @@
     <MESSAGE value="count words in file" />
     <MESSAGE value="this code intercept exception FileNotFound" />
     <MESSAGE value="training in streams" />
-    <option name="LAST_COMMIT_MESSAGE" value="training in streams" />
+    <MESSAGE value="training in multithreading, took two classes from javarush" />
+    <option name="LAST_COMMIT_MESSAGE" value="training in multithreading, took two classes from javarush" />
   </component>
 </project>
