@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="945921ba-df21-467f-8ebb-c8ecbcccfdc7" name="Changes" comment="training in multithreading, took two classes from javarush" />
+    <list default="true" id="945921ba-df21-467f-8ebb-c8ecbcccfdc7" name="Changes" comment="training in stream" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +37,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/javaRush/DiffTasks",
+    "last_opened_file_path": "D:/javaRush/JavaRushTasks",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
@@ -137,6 +137,7 @@
       <workItem from="1662481526679" duration="130000" />
       <workItem from="1662556044152" duration="162000" />
       <workItem from="1662556774916" duration="711000" />
+      <workItem from="1662641579329" duration="147000" />
     </task>
     <task id="LOCAL-00001" summary="Add new solving">
       <created>1660483397502</created>
@@ -236,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662557190108</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="training in stream">
+      <created>1662641696577</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1662641696577</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -268,6 +276,7 @@
     <MESSAGE value="this code intercept exception FileNotFound" />
     <MESSAGE value="training in streams" />
     <MESSAGE value="training in multithreading, took two classes from javarush" />
-    <option name="LAST_COMMIT_MESSAGE" value="training in multithreading, took two classes from javarush" />
+    <MESSAGE value="training in stream" />
+    <option name="LAST_COMMIT_MESSAGE" value="training in stream" />
   </component>
 </project>
