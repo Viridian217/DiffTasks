@@ -15,7 +15,6 @@ public class AdapterFileOutputStream implements AmigoStringWriter{
 
     }
 
-
     @Override
     public void flush() throws IOException {
         fileOutputStream.flush();
