@@ -3,7 +3,7 @@ package Adapter.AdapterStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
-public class AdapterFileOutputStream implements AmigoStringWriter{
+public class AdapterFileOutputStream implements StringWriter{
 
     private FileOutputStream fileOutputStream;
 

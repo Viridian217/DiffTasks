@@ -2,7 +2,7 @@ package Adapter.AdapterStream;
 
 import java.io.IOException;
 
-public interface AmigoStringWriter {
+public interface StringWriter {
 
     void flush() throws IOException;
 
