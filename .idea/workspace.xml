@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="945921ba-df21-467f-8ebb-c8ecbcccfdc7" name="Changes" comment="training in stream" />
+    <list default="true" id="945921ba-df21-467f-8ebb-c8ecbcccfdc7" name="Changes" comment="training in pattern &quot;Adapter&quot;">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Adapter/AdapterStream/AdapterFileOutputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Adapter/AdapterStream/AmigoStringWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +19,7 @@
       <list>
         <option value="package-info" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -32,17 +37,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/javaRush/DiffTasks&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/javaRush/DiffTasks",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="UnsupportedFileName" />
@@ -145,6 +150,9 @@
       <workItem from="1662556774916" duration="711000" />
       <workItem from="1662641579329" duration="147000" />
       <workItem from="1662733742478" duration="758000" />
+      <workItem from="1662830975104" duration="56000" />
+      <workItem from="1662909113733" duration="23000" />
+      <workItem from="1662909381335" duration="189000" />
     </task>
     <task id="LOCAL-00001" summary="Add new solving">
       <created>1660483397502</created>
@@ -258,7 +266,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662733845620</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="training in pattern &quot;Adapter&quot;">
+      <created>1662831026043</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1662831026043</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -291,6 +306,7 @@
     <MESSAGE value="training in streams" />
     <MESSAGE value="training in multithreading, took two classes from javarush" />
     <MESSAGE value="training in stream" />
-    <option name="LAST_COMMIT_MESSAGE" value="training in stream" />
+    <MESSAGE value="training in pattern &quot;Adapter&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="training in pattern &quot;Adapter&quot;" />
   </component>
 </project>
