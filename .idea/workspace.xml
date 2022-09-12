@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="945921ba-df21-467f-8ebb-c8ecbcccfdc7" name="Changes" comment="training in pattern &quot;Adapter&quot;">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Adapter/AdapterStream/AdapterFileOutputStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Adapter/AdapterStream/AmigoStringWriter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="945921ba-df21-467f-8ebb-c8ecbcccfdc7" name="Changes" comment="training in pattern &quot;Adapter&quot;, fixed bugs, and rename Interface" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -152,7 +148,7 @@
       <workItem from="1662733742478" duration="758000" />
       <workItem from="1662830975104" duration="56000" />
       <workItem from="1662909113733" duration="23000" />
-      <workItem from="1662909381335" duration="189000" />
+      <workItem from="1662909381335" duration="481000" />
     </task>
     <task id="LOCAL-00001" summary="Add new solving">
       <created>1660483397502</created>
@@ -273,7 +269,28 @@
       <option name="project" value="LOCAL" />
       <updated>1662831026043</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="training in pattern &quot;Adapter&quot;">
+      <created>1662909581993</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1662909581993</updated>
+    </task>
+    <task id="LOCAL-00019" summary="training in pattern &quot;Adapter&quot;">
+      <created>1662909656930</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1662909656930</updated>
+    </task>
+    <task id="LOCAL-00020" summary="training in pattern &quot;Adapter&quot;, fixed bugs, and rename Interface">
+      <created>1662909837032</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1662909837032</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -307,6 +324,7 @@
     <MESSAGE value="training in multithreading, took two classes from javarush" />
     <MESSAGE value="training in stream" />
     <MESSAGE value="training in pattern &quot;Adapter&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="training in pattern &quot;Adapter&quot;" />
+    <MESSAGE value="training in pattern &quot;Adapter&quot;, fixed bugs, and rename Interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="training in pattern &quot;Adapter&quot;, fixed bugs, and rename Interface" />
   </component>
 </project>
