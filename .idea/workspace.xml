@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="945921ba-df21-467f-8ebb-c8ecbcccfdc7" name="Changes" comment="training in pattern &quot;Adapter&quot;, fixed bugs, and rename Interface" />
+    <list default="true" id="945921ba-df21-467f-8ebb-c8ecbcccfdc7" name="Changes" comment="training in stream, write in file pair symbols">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,8 +16,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -33,17 +35,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/javaRush/DiffTasks",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/javaRush/DiffTasks&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="UnsupportedFileName" />
@@ -53,7 +55,7 @@
       <recent name="D:\javaRush\DiffTasks\src\main" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Adapter1">
+  <component name="RunManager" selected="Application.OutputOnlyNumbers">
     <configuration name="Adapter1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Adapter.Adapter1" />
       <module name="DiffTasks" />
@@ -100,20 +102,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Wrapper1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Wrapper1" />
+    <configuration name="OutputOnlyNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reader.OutputOnlyNumbers" />
       <module name="DiffTasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="reader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OutputOnlyNumbers" />
         <item itemvalue="Application.Adapter1" />
         <item itemvalue="Application.CountOfWords" />
         <item itemvalue="Application.CountOfSpace" />
         <item itemvalue="Application.Other" />
-        <item itemvalue="Application.Wrapper1" />
       </list>
     </recent_temporary>
   </component>
@@ -149,6 +157,7 @@
       <workItem from="1662830975104" duration="56000" />
       <workItem from="1662909113733" duration="23000" />
       <workItem from="1662909381335" duration="481000" />
+      <workItem from="1662987438688" duration="1952000" />
     </task>
     <task id="LOCAL-00001" summary="Add new solving">
       <created>1660483397502</created>
@@ -290,7 +299,21 @@
       <option name="project" value="LOCAL" />
       <updated>1662909837032</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="training in pattern stream, write in file pair symbols">
+      <created>1662987522203</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1662987522203</updated>
+    </task>
+    <task id="LOCAL-00022" summary="training in stream, write in file pair symbols">
+      <created>1662987541133</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1662987541133</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -325,6 +348,8 @@
     <MESSAGE value="training in stream" />
     <MESSAGE value="training in pattern &quot;Adapter&quot;" />
     <MESSAGE value="training in pattern &quot;Adapter&quot;, fixed bugs, and rename Interface" />
-    <option name="LAST_COMMIT_MESSAGE" value="training in pattern &quot;Adapter&quot;, fixed bugs, and rename Interface" />
+    <MESSAGE value="training in pattern stream, write in file pair symbols" />
+    <MESSAGE value="training in stream, write in file pair symbols" />
+    <option name="LAST_COMMIT_MESSAGE" value="training in stream, write in file pair symbols" />
   </component>
 </project>
