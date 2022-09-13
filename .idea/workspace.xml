@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="945921ba-df21-467f-8ebb-c8ecbcccfdc7" name="Changes" comment="training in stream, write in file pair symbols">
+    <list default="true" id="945921ba-df21-467f-8ebb-c8ecbcccfdc7" name="Changes" comment="training in stream">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +55,7 @@
       <recent name="D:\javaRush\DiffTasks\src\main" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OutputOnlyNumbers">
+  <component name="RunManager" selected="Application.WrapperReader">
     <configuration name="Adapter1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Adapter.Adapter1" />
       <module name="DiffTasks" />
@@ -95,13 +95,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Other" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Other" />
-      <module name="DiffTasks" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="OutputOnlyNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="reader.OutputOnlyNumbers" />
       <module name="DiffTasks" />
@@ -115,13 +108,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WrapperReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reader.WrapperReader" />
+      <module name="DiffTasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="reader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WrapperReader" />
         <item itemvalue="Application.OutputOnlyNumbers" />
         <item itemvalue="Application.Adapter1" />
         <item itemvalue="Application.CountOfWords" />
         <item itemvalue="Application.CountOfSpace" />
-        <item itemvalue="Application.Other" />
       </list>
     </recent_temporary>
   </component>
@@ -158,6 +164,8 @@
       <workItem from="1662909113733" duration="23000" />
       <workItem from="1662909381335" duration="481000" />
       <workItem from="1662987438688" duration="1952000" />
+      <workItem from="1662999258219" duration="151000" />
+      <workItem from="1663057941630" duration="423000" />
     </task>
     <task id="LOCAL-00001" summary="Add new solving">
       <created>1660483397502</created>
@@ -313,7 +321,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662987541133</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="training in stream">
+      <created>1662999336560</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1662999336560</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -345,11 +360,11 @@
     <MESSAGE value="this code intercept exception FileNotFound" />
     <MESSAGE value="training in streams" />
     <MESSAGE value="training in multithreading, took two classes from javarush" />
-    <MESSAGE value="training in stream" />
     <MESSAGE value="training in pattern &quot;Adapter&quot;" />
     <MESSAGE value="training in pattern &quot;Adapter&quot;, fixed bugs, and rename Interface" />
     <MESSAGE value="training in pattern stream, write in file pair symbols" />
     <MESSAGE value="training in stream, write in file pair symbols" />
-    <option name="LAST_COMMIT_MESSAGE" value="training in stream, write in file pair symbols" />
+    <MESSAGE value="training in stream" />
+    <option name="LAST_COMMIT_MESSAGE" value="training in stream" />
   </component>
 </project>
