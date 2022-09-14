@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="945921ba-df21-467f-8ebb-c8ecbcccfdc7" name="Changes" comment="training in stream">
+    <list default="true" id="945921ba-df21-467f-8ebb-c8ecbcccfdc7" name="Changes" comment="training in wrapper and stream, and with class System">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -165,7 +165,7 @@
       <workItem from="1662909381335" duration="481000" />
       <workItem from="1662987438688" duration="1952000" />
       <workItem from="1662999258219" duration="151000" />
-      <workItem from="1663057941630" duration="423000" />
+      <workItem from="1663057941630" duration="1264000" />
     </task>
     <task id="LOCAL-00001" summary="Add new solving">
       <created>1660483397502</created>
@@ -328,7 +328,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662999336560</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="training in wrapper and stream, and with class System">
+      <created>1663058452985</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1663058452985</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -365,6 +372,7 @@
     <MESSAGE value="training in pattern stream, write in file pair symbols" />
     <MESSAGE value="training in stream, write in file pair symbols" />
     <MESSAGE value="training in stream" />
-    <option name="LAST_COMMIT_MESSAGE" value="training in stream" />
+    <MESSAGE value="training in wrapper and stream, and with class System" />
+    <option name="LAST_COMMIT_MESSAGE" value="training in wrapper and stream, and with class System" />
   </component>
 </project>
