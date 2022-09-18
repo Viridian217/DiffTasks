@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="945921ba-df21-467f-8ebb-c8ecbcccfdc7" name="Changes" comment="training in stream, in this task we duplicate text both in file and console">
-      <change afterPath="$PROJECT_DIR$/src/main/java/reader/WordsWithNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="945921ba-df21-467f-8ebb-c8ecbcccfdc7" name="Changes" comment="training in stream, in this task we write in file words with numbers" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -179,7 +176,7 @@
       <workItem from="1663258835450" duration="1514000" />
       <workItem from="1663322462312" duration="81000" />
       <workItem from="1663326417011" duration="218000" />
-      <workItem from="1663415699687" duration="78000" />
+      <workItem from="1663415699687" duration="111000" />
     </task>
     <task id="LOCAL-00001" summary="Add new solving">
       <created>1660483397502</created>
@@ -384,7 +381,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663326554110</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="training in stream, in this task we write in file words with numbers">
+      <created>1663415805865</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1663415805865</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -426,6 +430,7 @@
     <MESSAGE value="write text without punctuation marks, training in stream" />
     <MESSAGE value="Quite an interesting task." />
     <MESSAGE value="training in stream, in this task we duplicate text both in file and console" />
-    <option name="LAST_COMMIT_MESSAGE" value="training in stream, in this task we duplicate text both in file and console" />
+    <MESSAGE value="training in stream, in this task we write in file words with numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="training in stream, in this task we write in file words with numbers" />
   </component>
 </project>
