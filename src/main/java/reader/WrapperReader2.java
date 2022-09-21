@@ -1,21 +1,23 @@
 package reader;
 
 import java.io.ByteArrayOutputStream;
+import java.io.IOException;
 import java.io.PrintStream;
 
 public class WrapperReader2 {
     public static TestString testString = new TestString();
 
-    public static void main(String[] args) {
-        PrintStream stream = System.out;
-        ByteArrayOutputStream byteArrayOutputStream = new ByteArrayOutputStream();
-        System.setOut(new PrintStream(byteArrayOutputStream));
-        testString.printSomething();
-        System.setOut(stream);
+    public static void main(String[] args) throws IOException {
+        try (PrintStream stream = System.out;
+             ByteArrayOutputStream byteArrayOutputStream = new ByteArrayOutputStream();) {
+            System.setOut(new PrintStream(byteArrayOutputStream));
+            testString.printSomething();
+            System.setOut(stream);
 
-        String result = byteArrayOutputStream.toString();
-        result = result.replaceAll("te", "??");
-        System.out.println(result);
+            String result = byteArrayOutputStream.toString();
+            result = result.replaceAll("te", "??");
+            System.out.println(result);
+        }
     }
 
     public static class TestString {
