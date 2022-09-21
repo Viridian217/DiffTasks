@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="945921ba-df21-467f-8ebb-c8ecbcccfdc7" name="Changes" comment="training in stream, in this task we output to the console reverse text which we got from file">
+    <list default="true" id="945921ba-df21-467f-8ebb-c8ecbcccfdc7" name="Changes" comment="some changes with location project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +47,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/javaProjects/SpringDemo",
+    "last_opened_file_path": "D:/javaProjects/javaRush",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -190,6 +190,8 @@
       <workItem from="1663520694589" duration="109000" />
       <workItem from="1663600218411" duration="27000" />
       <workItem from="1663600288510" duration="398000" />
+      <workItem from="1663685495504" duration="449000" />
+      <workItem from="1663736806981" duration="24000" />
     </task>
     <task id="LOCAL-00001" summary="Add new solving">
       <created>1660483397502</created>
@@ -408,7 +410,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663520796814</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="training in stream, in this task we write to file words which have more than 6 letters">
+      <created>1663685663200</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1663685663200</updated>
+    </task>
+    <task id="LOCAL-00033" summary="some changes with location project">
+      <created>1663685705286</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1663685705286</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -426,8 +442,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="wrote program which calculate factorial number &lt; 150" />
-    <MESSAGE value="Find most common characters in file" />
     <MESSAGE value="Get sort characters" />
     <MESSAGE value="Count of Comma in text in file" />
     <MESSAGE value="Training in wrappers" />
@@ -451,6 +465,8 @@
     <MESSAGE value="training in stream, in this task we duplicate text both in file and console" />
     <MESSAGE value="training in stream, in this task we write in file words with numbers" />
     <MESSAGE value="training in stream, in this task we output to the console reverse text which we got from file" />
-    <option name="LAST_COMMIT_MESSAGE" value="training in stream, in this task we output to the console reverse text which we got from file" />
+    <MESSAGE value="training in stream, in this task we write to file words which have more than 6 letters" />
+    <MESSAGE value="some changes with location project" />
+    <option name="LAST_COMMIT_MESSAGE" value="some changes with location project" />
   </component>
 </project>
