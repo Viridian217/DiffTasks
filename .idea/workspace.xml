@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="945921ba-df21-467f-8ebb-c8ecbcccfdc7" name="Changes" comment="training in stream, replace te on ??, make some changes" />
+    <list default="true" id="945921ba-df21-467f-8ebb-c8ecbcccfdc7" name="Changes" comment="training in stream, if we have in text something words, we output line where them found">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -191,6 +193,9 @@
       <workItem from="1663685495504" duration="449000" />
       <workItem from="1663736806981" duration="24000" />
       <workItem from="1663737104195" duration="210000" />
+      <workItem from="1663874215484" duration="216000" />
+      <workItem from="1663925175992" duration="102000" />
+      <workItem from="1663930437717" duration="18000" />
     </task>
     <task id="LOCAL-00001" summary="Add new solving">
       <created>1660483397502</created>
@@ -437,7 +442,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663737304955</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="training in stream, if we have in text something words, we output line where them found">
+      <created>1663874381428</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1663874381428</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -455,7 +467,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Training in wrappers" />
     <MESSAGE value="Checks for the ends of files to comply conditions problem" />
     <MESSAGE value="Counts quantity of English words in file" />
     <MESSAGE value="Counts quantity of space in files and compute ratio of total amount of words and space" />
@@ -480,6 +491,7 @@
     <MESSAGE value="some changes with location project" />
     <MESSAGE value="training in stream, replace te on ??" />
     <MESSAGE value="training in stream, replace te on ??, make some changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="training in stream, replace te on ??, make some changes" />
+    <MESSAGE value="training in stream, if we have in text something words, we output line where them found" />
+    <option name="LAST_COMMIT_MESSAGE" value="training in stream, if we have in text something words, we output line where them found" />
   </component>
 </project>
