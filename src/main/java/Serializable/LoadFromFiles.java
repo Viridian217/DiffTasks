@@ -1,36 +1,25 @@
 package Serializable;
 
-import java.io.FileInputStream;
-import java.io.FileOutputStream;
-import java.io.ObjectInputStream;
-import java.io.ObjectOutputStream;
+import java.io.*;
 import java.util.HashMap;
 import java.util.Map;
 
-public class LoadFromFiles {
+public class LoadFromFiles implements Serializable {
     public static void main(String[] args) throws Exception {
-        FileOutputStream fileOutput = new FileOutputStream("fileName");
-        ObjectOutputStream outputStream = new ObjectOutputStream(fileOutput);
+        try (FileOutputStream fileOutput = new FileOutputStream("fileName");
+             ObjectOutputStream outputStream = new ObjectOutputStream(fileOutput)) {
 
-        LoadFromFiles loadFromFiles = new LoadFromFiles();
-        outputStream.writeObject(loadFromFiles);
+            LoadFromFiles loadFromFiles = new LoadFromFiles();
+            outputStream.writeObject(loadFromFiles);
 
-        fileOutput.close();
-        outputStream.close();
+            try (FileInputStream fiStream = new FileInputStream("fileName");
+                 ObjectInputStream objectStream = new ObjectInputStream(fiStream)) {
 
-        //load
-        FileInputStream fiStream = new FileInputStream("fileName");
-        ObjectInputStream objectStream = new ObjectInputStream(fiStream);
-
-        LoadFromFiles loadedObject = (LoadFromFiles) objectStream.readObject();
-
-        fiStream.close();
-        objectStream.close();
-
-        //Attention!!
-        System.out.println(loadedObject.size());
+                LoadFromFiles loadedObject = (LoadFromFiles) objectStream.readObject();
+                System.out.println(loadedObject.size());
+            }
+        }
     }
-
     private Map<String, String> m = new HashMap<>();
 
     public Map<String, String> getMap() {
