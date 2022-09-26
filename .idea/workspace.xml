@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="945921ba-df21-467f-8ebb-c8ecbcccfdc7" name="Changes" comment="training in stream, if we have in text something words, we output line where them found">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="945921ba-df21-467f-8ebb-c8ecbcccfdc7" name="Changes" comment="training in serializable" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -196,6 +194,7 @@
       <workItem from="1663874215484" duration="216000" />
       <workItem from="1663925175992" duration="102000" />
       <workItem from="1663930437717" duration="18000" />
+      <workItem from="1664115201951" duration="186000" />
     </task>
     <task id="LOCAL-00001" summary="Add new solving">
       <created>1660483397502</created>
@@ -449,7 +448,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663874381428</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="training in serializable">
+      <created>1664115381766</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1664115381766</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -467,7 +473,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Checks for the ends of files to comply conditions problem" />
     <MESSAGE value="Counts quantity of English words in file" />
     <MESSAGE value="Counts quantity of space in files and compute ratio of total amount of words and space" />
     <MESSAGE value="this class implements list, training in wrapper, multithreading, inheritance" />
@@ -492,6 +497,7 @@
     <MESSAGE value="training in stream, replace te on ??" />
     <MESSAGE value="training in stream, replace te on ??, make some changes" />
     <MESSAGE value="training in stream, if we have in text something words, we output line where them found" />
-    <option name="LAST_COMMIT_MESSAGE" value="training in stream, if we have in text something words, we output line where them found" />
+    <MESSAGE value="training in serializable" />
+    <option name="LAST_COMMIT_MESSAGE" value="training in serializable" />
   </component>
 </project>
