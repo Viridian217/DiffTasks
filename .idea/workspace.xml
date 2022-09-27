@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="945921ba-df21-467f-8ebb-c8ecbcccfdc7" name="Changes" comment="training in serializable" />
+    <list default="true" id="945921ba-df21-467f-8ebb-c8ecbcccfdc7" name="Changes" comment="training in serializable, fixed bugs" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,18 +40,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/javaProjects/javaRush&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/javaProjects/DiffTasks",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="UnsupportedFileName" />
@@ -195,6 +195,7 @@
       <workItem from="1663925175992" duration="102000" />
       <workItem from="1663930437717" duration="18000" />
       <workItem from="1664115201951" duration="186000" />
+      <workItem from="1664194238768" duration="303000" />
     </task>
     <task id="LOCAL-00001" summary="Add new solving">
       <created>1660483397502</created>
@@ -455,7 +456,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664115381766</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="training in serializable">
+      <created>1664194343557</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1664194343557</updated>
+    </task>
+    <task id="LOCAL-00039" summary="training in serializable, fixed bugs">
+      <created>1664194519726</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1664194519726</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -473,7 +488,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Counts quantity of English words in file" />
     <MESSAGE value="Counts quantity of space in files and compute ratio of total amount of words and space" />
     <MESSAGE value="this class implements list, training in wrapper, multithreading, inheritance" />
     <MESSAGE value="count words in file" />
@@ -498,6 +512,7 @@
     <MESSAGE value="training in stream, replace te on ??, make some changes" />
     <MESSAGE value="training in stream, if we have in text something words, we output line where them found" />
     <MESSAGE value="training in serializable" />
-    <option name="LAST_COMMIT_MESSAGE" value="training in serializable" />
+    <MESSAGE value="training in serializable, fixed bugs" />
+    <option name="LAST_COMMIT_MESSAGE" value="training in serializable, fixed bugs" />
   </component>
 </project>
