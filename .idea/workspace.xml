@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="945921ba-df21-467f-8ebb-c8ecbcccfdc7" name="Changes" comment="training in serializable, this problem from javarush" />
+    <list default="true" id="945921ba-df21-467f-8ebb-c8ecbcccfdc7" name="Changes" comment="training in path, files, this problem from javarush" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +45,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/javaProjects/LeetcodeTasks",
+    "last_opened_file_path": "D:/javaProjects/DiffTasks",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -198,6 +198,7 @@
       <workItem from="1664194238768" duration="303000" />
       <workItem from="1664295252588" duration="130000" />
       <workItem from="1664382013032" duration="108000" />
+      <workItem from="1664467898816" duration="197000" />
     </task>
     <task id="LOCAL-00001" summary="Add new solving">
       <created>1660483397502</created>
@@ -486,7 +487,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664382085280</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="training in path, files, this problem from javarush">
+      <created>1664468068887</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1664468068887</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -504,7 +512,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="this class implements list, training in wrapper, multithreading, inheritance" />
     <MESSAGE value="count words in file" />
     <MESSAGE value="this code intercept exception FileNotFound" />
     <MESSAGE value="training in streams" />
@@ -529,6 +536,7 @@
     <MESSAGE value="training in serializable" />
     <MESSAGE value="training in serializable, fixed bugs" />
     <MESSAGE value="training in serializable, this problem from javarush" />
-    <option name="LAST_COMMIT_MESSAGE" value="training in serializable, this problem from javarush" />
+    <MESSAGE value="training in path, files, this problem from javarush" />
+    <option name="LAST_COMMIT_MESSAGE" value="training in path, files, this problem from javarush" />
   </component>
 </project>
