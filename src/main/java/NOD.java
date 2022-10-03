@@ -4,10 +4,6 @@ import java.util.Set;
 
 public class NOD {
 
-    /*
-    НОД
-    */
-
     public static void main(String[] args) throws Exception {
         Scanner scanner = new Scanner(System.in);
         System.out.println(NOD(scanner.nextInt(), scanner.nextInt()));
